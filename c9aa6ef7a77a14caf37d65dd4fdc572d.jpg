@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>MirrorFailed</Code>
+  <Message>Error status : 400 from mirror host, should return 200 OK.</Message>
+  <RequestId>62787C0470483031307D4FC7</RequestId>
+  <HostId>yk-thumb-sh.oss-cn-shanghai.aliyuncs.com</HostId>
+</Error>
